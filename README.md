@@ -11,7 +11,10 @@ Hello! I'm Priscilla, transitioning from a career as a Chartered Accountant to t
 - **Power BI:** Interactive data visualization and business intelligence.
 
 
-
+## Technologies
+![TSQL](https://img.shields.io/badge/-TSQL-007ACC?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=white)
+![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
 
 
 ## Current Focus
