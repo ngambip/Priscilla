@@ -1,7 +1,7 @@
 # Professional Profile
 
 
-![priscilla](Assets/Images/Profile_pic.png)
+![priscilla](https://github.com/ngambip/Top-uk-Youtubers-2024.githu.io/blob/main/Assets/Images/Profile_pic.png?raw=true)
 
 
 
