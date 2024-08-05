@@ -58,8 +58,7 @@ Hello! I'm Priscilla, with dual role  as a Chartered Accountant and the  excitin
 ### Skills: 
 Project Management, Financial Analysis, Data Reporting, Stakeholder Engagement, Program Development, Monitoring and Evaluation, Communication Strategy.
 
-Finance lead with an analyst in this role, I am managing fiancial and activity data related to youth graduate placements and institutional engagements. I develop and monitor project plans, manage budgets, and generate insightful reports to inform decision-making. I also engage with stakeholders, design training programs, and evaluate project effectiveness to ensure successful outcomes and sustainable impact.
-
+As a Finance Lead and Analyst, I manage financial and activity data related to youth graduate placements and institutional engagements. I develop and oversee financial-related project plans, ensuring they align with strategic objectives and budget constraints. I create detailed financial reports and forecasts to support informed decision-making, engage with stakeholders to build effective partnerships, and design training programs to enhance skills. Additionally, I evaluate project effectiveness, applying analytical skills to measure outcomes and ensure sustainable impact. Critical aspects of the role include financial management, strategic planning, data analysis, stakeholder communication, and program development.
 
 
 
