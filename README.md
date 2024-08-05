@@ -63,6 +63,11 @@ As an analyst in this role, I am managing and analyzing data related to youth gr
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priscilla-ngambi/)
 
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/ngambip)
+
+[![Medium](https://img.shields.io/badge/Medium-00AB6C?style=flat&logo=medium&logoColor=white)](https://medium.com/@ngambipriscilla)
+
+
 
 
 
