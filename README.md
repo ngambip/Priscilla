@@ -59,7 +59,7 @@ As an analyst in this role, I am managing and analyzing data related to youth gr
 
 ## Contact 
 
-- **Email:** [ngambipriscilla@yahoo.com]
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ngambipriscilla@yahoo.com)
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priscilla-ngambi/)
 
