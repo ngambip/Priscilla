@@ -20,9 +20,15 @@ Hello! I'm Priscilla, transitioning from a career as a Chartered Accountant to t
 ## Current Focus
 
 - **Health Analytics**
-- **Education Analytics**
-- **Financial Analytics**
+![Health Sector](https://github.com/ngambip/Top-uk-Youtubers-2024.githu.io/blob/main/Assets/Images/Hospital_Analytics.jpg?raw=true)
 
+- **Education Analytics**
+
+![Education](https://github.com/ngambip/Top-uk-Youtubers-2024.githu.io/blob/main/Assets/Images/Education_Analytics.jpg?raw=true)
+
+
+- **Financial Analytics**
+![Financial](https://github.com/ngambip/Top-uk-Youtubers-2024.githu.io/blob/main/Assets/Images/Finance_Analytics.jpg?raw=true)
 
 ## Goals
 
