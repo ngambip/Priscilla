@@ -36,7 +36,7 @@ Hello! I'm Priscilla, with dual role  as a Chartered Accountant and the  excitin
 
 ## Health Analytics
 
-Github project
+Refer to Github project
 
 
 
@@ -44,7 +44,7 @@ Github project
 
 
 ## Education Analytics
--  Curemtly part of role
+-  Currently part of my role
 
 ![Education](https://github.com/ngambip/Top-uk-Youtubers-2024.githu.io/blob/main/Assets/Images/Education_Analytics.jpg?raw=true)
 
