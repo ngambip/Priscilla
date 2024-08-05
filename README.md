@@ -1,5 +1,9 @@
 # Priscilla's GitHub Profile
 
+![priscilla](https://github.com/ngambip/Top-uk-Youtubers-2024.githu.io/blob/main/Assets/Images/Profile_pic.png?raw=true)
+
+
+
 ## About Me
 
 Hello! I'm Priscilla, transitioning from a career as a Chartered Accountant to the exciting world of Data Analytics. With a strong foundation in financial analysis and a growing expertise in data analytics, I am passionate about uncovering insights in the Health, Education, and Finance sectors.
