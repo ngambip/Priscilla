@@ -6,7 +6,7 @@
 
 ## About Me
 
-Hello! I'm Priscilla, transitioning from a career as a Chartered Accountant to the exciting world of Data Analytics. With a strong foundation in financial analysis and a growing expertise in data analytics, I am passionate about uncovering insights in the Health, Education, and Finance sectors.
+Hello! I'm Priscilla, with dual role  as a Chartered Accountant and the  exciting world of Data Analytics. With a strong foundation in financial analysis and a growing expertise in data analytics, I am passionate about uncovering insights in the Health, Education, and Finance sectors.
 
 ## Skills
 
@@ -52,7 +52,7 @@ Hello! I'm Priscilla, transitioning from a career as a Chartered Accountant to t
 ### Skills: 
 Project Management, Financial Analysis, Data Reporting, Stakeholder Engagement, Program Development, Monitoring and Evaluation, Communication Strategy.
 
-As an analyst in this role, I am managing and analyzing data related to youth graduate placements and institutional engagements. I develop and monitor project plans, manage budgets, and generate insightful reports to inform decision-making. I also engage with stakeholders, design training programs, and evaluate project effectiveness to ensure successful outcomes and sustainable impact.
+Finance lead with an analyst in this role, I am managing fiancial and activity data related to youth graduate placements and institutional engagements. I develop and monitor project plans, manage budgets, and generate insightful reports to inform decision-making. I also engage with stakeholders, design training programs, and evaluate project effectiveness to ensure successful outcomes and sustainable impact.
 
 
 
@@ -72,8 +72,6 @@ As an analyst in this role, I am managing and analyzing data related to youth gr
 
 
 
-
----
 
 Thank you for visiting my profile! Feel free to reach out if you have any questions or would like to connect.
 
