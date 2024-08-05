@@ -1,7 +1,7 @@
 # Professional Profile
 
 
-![priscilla](Assets/Images/Priscilla.jpg)
+![priscilla](Assets/Images/Profile_pic.png)
 
 
 
