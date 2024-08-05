@@ -14,7 +14,7 @@ Hello! I'm Priscilla, with dual role  as a Chartered Accountant and the  excitin
 - **Financial Analysis:** Preparing, analyzing  and reporting Financial statements.
 - **Payroll Management:** Prepare Payroll and ensure Statutory Obligation Complaince.
 - **Audit Preparation and support:** Able to perform year end procedures and support the Full audit process.
-- **Project Management & Evalustion:** Able to provide Financial insights and Evalution of Projects.
+- **Project Management & Evaluation:** Able to provide Financial insights and Evalution of Projects.
 - **Sage & ERP Support :** Able to use the the packages for Monitoring and reporting.
 - **Excel:** Advanced data manipulation and visualization.
 - **SQL:** Efficient data querying and database management.
@@ -36,11 +36,15 @@ Hello! I'm Priscilla, with dual role  as a Chartered Accountant and the  excitin
 
 ## Health Analytics
 
+Github project
+
+
 
 ![Health Sector](https://github.com/ngambip/Top-uk-Youtubers-2024.githu.io/blob/main/Assets/Images/Hospital_Analytics.jpg?raw=true)
 
 
 ## Education Analytics
+-  Curemtly part of role
 
 ![Education](https://github.com/ngambip/Top-uk-Youtubers-2024.githu.io/blob/main/Assets/Images/Education_Analytics.jpg?raw=true)
 
