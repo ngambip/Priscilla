@@ -47,10 +47,9 @@ Hello! I'm Priscilla, transitioning from a career as a Chartered Accountant to t
 ## Consultant Role for Donor-Funded Youth Placement Project
 
 ### Skills: 
-
 Project Management, Financial Analysis, Data Reporting, Stakeholder Engagement, Program Development, Monitoring and Evaluation, Communication Strategy.
 
-
+As an analyst in this role, I am managing and analyzing data related to youth graduate placements and institutional engagements. I develop and monitor project plans, manage budgets, and generate insightful reports to inform decision-making. I also engage with stakeholders, design training programs, and evaluate project effectiveness to ensure successful outcomes and sustainable impact.
 
 
 
