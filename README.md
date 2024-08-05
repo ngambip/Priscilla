@@ -10,10 +10,10 @@ Hello! I'm Priscilla, with dual role  as a Chartered Accountant and the  excitin
 
 ## Skills
 - **Budgeting & Forcasting:** Preparing Budgets, monitor expenditure, Variance reporting and Interpretation.
-- - **Financial Analysis:** Preparing, analyzing  and reporting Financial statements.
+- **Financial Analysis:** Preparing, analyzing  and reporting Financial statements.
 - **Payroll Management:** Prepare Payroll and ensure Statutory Obligation Complaince.
 - **Audit Preparation and support:** Able to perform year end procedures and support the Full audit process.
-- - **Project Management & Evalustion:** Able to provide Financial insights and Evalution of Projects.
+- **Project Management & Evalustion:** Able to provide Financial insights and Evalution of Projects.
 - **Sage & ERP Support :** Able to use the the packages for Monitoring and reporting.
 - **Excel:** Advanced data manipulation and visualization.
 - **SQL:** Efficient data querying and database management.
