@@ -24,7 +24,7 @@ Hello! I'm Priscilla, with dual role  as a Chartered Accountant and the  excitin
 
 
 ## Technologies
-![TSQL](https://img.shields.io/badge/-TSQL-007ACC?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+![SQL](https://img.shields.io/badge/-TSQL-007ACC?style=flat-square&logo=microsoft-sql-server&logoColor=white)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=white)
 ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white)
