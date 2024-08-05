@@ -17,24 +17,39 @@ Hello! I'm Priscilla, transitioning from a career as a Chartered Accountant to t
 ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
 
 
-## Current Focus
+# Current Focus
 
-- **Health Analytics**
+
+## Health Analytics
+
+
 ![Health Sector](https://github.com/ngambip/Top-uk-Youtubers-2024.githu.io/blob/main/Assets/Images/Hospital_Analytics.jpg?raw=true)
 
-- **Education Analytics**
+
+## Education Analytics
 
 ![Education](https://github.com/ngambip/Top-uk-Youtubers-2024.githu.io/blob/main/Assets/Images/Education_Analytics.jpg?raw=true)
 
 
-- **Financial Analytics**
+## Financial Analytics
+
+
 ![Financial](https://github.com/ngambip/Top-uk-Youtubers-2024.githu.io/blob/main/Assets/Images/Finance_Analytics.jpg?raw=true)
 
-## Goals
 
-- **Short-Term:** Deepen my knowledge and proficiency in data analytics tools and techniques.
-- **Long-Term:** Provide consultancy services in data and business analytics to help organizations leverage data for     
-                  strategic decision-making.
+
+# Current Role
+
+## Consultant Role for Donor-Funded Youth Placement Project
+
+### Skills: 
+
+Project Management, Financial Analysis, Data Reporting, Stakeholder Engagement, Program Development, Monitoring and Evaluation, Communication Strategy.
+
+
+
+
+
 
 ## Contact Me
 
