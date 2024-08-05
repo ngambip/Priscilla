@@ -24,7 +24,7 @@ Hello! I'm Priscilla, with dual role  as a Chartered Accountant and the  excitin
 
 
 ## Technologies
-![SQL](https://img.shields.io/badge/-TSQL-007ACC?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+![TSQL](https://img.shields.io/badge/-TSQL-007ACC?style=flat-square&logo=microsoft-sql-server&logoColor=white)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=white)
 ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white)
@@ -36,7 +36,7 @@ Hello! I'm Priscilla, with dual role  as a Chartered Accountant and the  excitin
 
 ## Health Analytics
 
-Refer to Github project
+- Refer to Github project
 
 
 
@@ -58,7 +58,7 @@ Refer to Github project
 
 # Current Role
 
-## Consultant Role for Donor-Funded Youth Placement Project
+## Consultant Role for Donor-Funded Graduate Placement Project
 
 ### Skills: 
 Project Management, Financial Analysis, Data Reporting, Stakeholder Engagement, Program Development, Monitoring and Evaluation, Communication Strategy.
