@@ -13,12 +13,15 @@ Hello! I'm Priscilla, transitioning from a career as a Chartered Accountant to t
 - **Excel:** Advanced data manipulation and visualization.
 - **SQL:** Efficient data querying and database management.
 - **Power BI:** Interactive data visualization and business intelligence.
+- **Tableau:** Powerful data visualization and business intelligence.
 
 
 ## Technologies
 ![TSQL](https://img.shields.io/badge/-TSQL-007ACC?style=flat-square&logo=microsoft-sql-server&logoColor=white)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=white)
 ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white)
+
 
 
 # Current Focus
