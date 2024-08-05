@@ -9,11 +9,16 @@
 Hello! I'm Priscilla, with dual role  as a Chartered Accountant and the  exciting world of Data Analytics. With a strong foundation in financial analysis and a growing expertise in data analytics, I am passionate about uncovering insights in the Health, Education, and Finance sectors.
 
 ## Skills
-
+- **Budgeting & Forcasting:** Preparing Budgets, monitor expenditure, Variance reporting and Interpretation.
+- **Financial Analysis:** Preparing and analyzing Financial statements.
+- **Payroll Management:** Prepare Payroll and ensure Statutory Obligation Complaince.
+- **Audit Preparation and support:** Preparing Budgets, monitor expenditure and Variance reporting an dInterpretation.
+- **Sage & ERP Support :** Able to use the the packages for Monitoring and reporting.
 - **Excel:** Advanced data manipulation and visualization.
 - **SQL:** Efficient data querying and database management.
 - **Power BI:** Interactive data visualization and business intelligence.
 - **Tableau:** Powerful data visualization and business intelligence.
+
 
 
 ## Technologies
